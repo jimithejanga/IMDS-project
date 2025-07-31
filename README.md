@@ -4,6 +4,15 @@ an intelligent malpractice detection system
 
 A lightweight, real-time AI-powered proctoring system for Computer-Based Testing (CBT). IMDS combines webcam-based gaze estimation with object detection to flag potential cheating behaviors without relying on the cloud or high-end hardware. It is optimized for deployment in West Africa and other resource-constrained environments.
 
+## 📄 Documentation
+Full technical report explaining design, models, constraints, and benchmarks:  
+👉 [View imds_report.pdf](https://drive.google.com/file/d/1OWoiJlXJwaM5yGQDMg5UWTeOwRlEkxQC/view?usp=drive_link)
+
+## 📽️ Demo Video
+2-minute video showing system functionality and real-time detection:  
+🎥 [Watch IMDS Demo](https://drive.google.com/file/d/1vF6bIOh3fHV75Ly2eNux42-aHoePPVFX/view?usp=drive_link)
+
+
 ---
 
 ## 🚀 Key Features
